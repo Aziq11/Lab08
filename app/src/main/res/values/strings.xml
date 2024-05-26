@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">lab08</string>
+    <string name="android_atc_pizza_shop">Android ATC Pizza Shop</string>
+    <string name="schedule_a_pickup">Schedule a pickup</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="price_desc"> Small: RM5, Medium: RM8, Large: RM11, Extra Large: RM14</string>
+    <string name="select_your_pizza_size">Select your pizza size</string>
+    <string name="price">Price:</string>
+    <string name="selected_size">Selected size</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="schedule">Schedule</string>
+    <string name="send">Send</string>
+    <string name="size">Size:</string>
+    <string name="phone_number1">Phone Number:</string>
+    <string name="name">Name:</string>
+    <string name="thank_you_for_your_order">Thank you for your order</string>
+    <string name="thanks_desc">We appreciate your feedback. Please leave us a review!</string>
+    <string name="pick_up_time">Pick up time:</string>
+</resources>
